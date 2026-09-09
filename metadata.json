@@ -1,0 +1,17 @@
+[
+  {
+    "episode": 1,
+    "kind": "weekly",
+    "source_probe": "H41",
+    "days": [
+      1,
+      7
+    ],
+    "published": "2026-09-09",
+    "audio": {
+      "es": "audio/es/001.mp3",
+      "ca": "audio/ca/001.mp3",
+      "en-au": "audio/en-au/001.mp3"
+    }
+  }
+]
